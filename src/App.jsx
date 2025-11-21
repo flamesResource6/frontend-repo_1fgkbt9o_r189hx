@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-white">
+    <div className="min-h-screen bg-gradient-to-br from-rose-300 via-pink-300 to-rose-400 text-white">
       <header className="relative z-10">
         <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 py-5">
           <div className="flex items-center gap-2">
